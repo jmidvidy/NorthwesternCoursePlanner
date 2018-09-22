@@ -1,6 +1,6 @@
 Team_Juliett
 ============
-Programmers: Tali Laifer, Matt Schley, Ethan Robison
+Programmers: Tali Laifer, Matt Schley, Ethan Robison, Jeremy Midvidy
 
 Project for Northwestern University EECS 214
 
